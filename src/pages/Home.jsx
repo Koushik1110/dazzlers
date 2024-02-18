@@ -14,9 +14,9 @@ const Home = () => {
             initial={{ y: "-100%" }}
             whileInView={{ y: 0 }}
             transition={{ duration: 0.75, ease: "easeInOut" }}
-            className="text-5xl sm:text-7xl text-white font-bold text-center"
+            className="text-5xl sm:text-7xl text-white font-bold text-center mb-3"
           >
-            Lorem ipsum dolor sit amet, consectetur adipisicing.
+            Welcome to Dazzlers.Where the latest fashion trends are at your finger tip.
           </motion.h1>
         </div>
         <div className="overflow-hidden">

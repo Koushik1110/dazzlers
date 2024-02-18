@@ -10,7 +10,7 @@ const SavedBlogs = () => {
     <div className="container mx-auto px-5 sm:px-20 py-20">
       <SectionHeader
         heading={`Saved Items (${state?.blogs?.length})`}
-        subHeading="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo itaque minus illo recusandae molestias mollitia ullam sit impedit laborum! Iure recusandae eos nulla perferendis modi!"
+        subHeading="These are the items that has managed to caught your eyes."
       />
 
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-10">
